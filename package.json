@@ -1,0 +1,48 @@
+{
+    "name": "deampresale",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@testing-library/jest-dom": "^5.14.1",
+        "@testing-library/react": "^13.0.0",
+        "@testing-library/user-event": "^13.2.1",
+        "ethers": "^5.6.8",
+        "ethers-multicall": "^0.2.3",
+        "moment": "^2.29.3",
+        "node-sass": "^7.0.1",
+        "react": "^18.1.0",
+        "react-animate-on-scroll": "^2.1.5",
+        "react-dom": "^18.1.0",
+        "react-router-dom": "^6.3.0",
+        "react-scripts": "4.0.3",
+        "react-toastify": "9.0.3",
+        "sass": "^1.52.1",
+        "use-wallet": "https://github.com/BigBen3918/use-wallet.git",
+        "use-wallet2": "0.1.5",
+        "web-vitals": "^2.1.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
